@@ -1,0 +1,8 @@
+http://stackoverflow.com/questions/33297417/fastest-way-to-check-if-each-row-contains-some-value-in-dataframe-in-r
+complete.cases was not satisfactory in removing 'NULL' values in the dataset. This link helped me determine how to specifically remove rows with 'NULL' values.
+
+https://www.kaggle.com/benhamner/titanic/random-forest-benchmark-r/code
+Modified the extractFeatures function from the URL to get factors for my dataset.
+
+https://dinsdalelab.sdsu.edu/metag.stats/code/randomforest.html
+Information on the variable importance plot, mean decrease accuracy, and mean decrease Gini index for Random Forest model visualization.
