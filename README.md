@@ -1,8 +1,11 @@
 # MachineLearning-NYU-Proj1
 
 Name: Joseph Bieselin
+
 NYU Net ID: JAB975
+
 Project 1
+
 
 jab975_project_1_logistic-regression&random-forest_dataset.zip contains all the necessary files for this project:
 - data_preparation.R
